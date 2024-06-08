@@ -1,0 +1,25 @@
+{
+  "name": "rpsls-game",
+  "version": "1.0.0",
+  "description": "rock, paper, scissor, lizard, spock game",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petra-rabai/rpsls-game.git"
+  },
+  "author": "Petra Rabai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petra-rabai/rpsls-game/issues"
+  },
+  "homepage": "https://github.com/petra-rabai/rpsls-game#readme",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
